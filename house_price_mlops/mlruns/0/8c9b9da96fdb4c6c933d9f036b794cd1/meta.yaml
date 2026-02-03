@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vasista/Temporary/MLOPS_VNRVJIET/mlops_demo/house_price_mlops/mlruns/0/8c9b9da96fdb4c6c933d9f036b794cd1/artifacts
+end_time: 1761253199808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c9b9da96fdb4c6c933d9f036b794cd1
+run_name: bemused-conch-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761253192851
+status: 4
+tags: []
+user_id: vasista

@@ -1,0 +1,10 @@
+artifact_location: file:///home/vasista/Temporary/MLOPS_VNRVJIET/mlops_demo/house_price_mlops/mlruns/0/models/m-c56a69ef19bc4e6dabb6d826cb9a9692/artifacts
+creation_timestamp: 1761253458859
+experiment_id: '0'
+last_updated_timestamp: 1761253465579
+model_id: m-c56a69ef19bc4e6dabb6d826cb9a9692
+model_type: null
+name: model
+source_run_id: 8de9df89ce6b434b946b6a25d46da5eb
+status: 2
+status_message: null
