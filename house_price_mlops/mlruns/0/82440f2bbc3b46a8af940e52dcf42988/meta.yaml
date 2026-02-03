@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vasista/Temporary/MLOPS_VNRVJIET/mlops_demo/house_price_mlops/mlruns/0/82440f2bbc3b46a8af940e52dcf42988/artifacts
+end_time: 1761256512330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82440f2bbc3b46a8af940e52dcf42988
+run_name: legendary-mink-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761256497609
+status: 3
+tags: []
+user_id: vasista

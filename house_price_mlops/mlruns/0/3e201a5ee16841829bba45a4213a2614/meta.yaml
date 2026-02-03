@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vasista/Temporary/MLOPS_VNRVJIET/mlops_demo/house_price_mlops/mlruns/0/3e201a5ee16841829bba45a4213a2614/artifacts
+end_time: 1761252934697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e201a5ee16841829bba45a4213a2614
+run_name: overjoyed-stork-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761252927682
+status: 4
+tags: []
+user_id: vasista

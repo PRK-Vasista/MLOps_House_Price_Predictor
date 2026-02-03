@@ -1,0 +1,22 @@
+artifact_path: file:///home/vasista/Temporary/MLOPS_VNRVJIET/mlops_demo/house_price_mlops/mlruns/0/models/m-aa0e84d0c4154d08a815a57ad20c55a5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-aa0e84d0c4154d08a815a57ad20c55a5
+model_size_bytes: 688
+model_uuid: m-aa0e84d0c4154d08a815a57ad20c55a5
+prompts: null
+run_id: 860ef31c96c545639faeedae30fd43a5
+utc_time_created: '2025-10-23 21:05:53.090075'

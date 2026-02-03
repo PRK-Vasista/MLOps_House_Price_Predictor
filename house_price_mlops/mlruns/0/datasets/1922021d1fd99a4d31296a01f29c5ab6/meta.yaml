@@ -1,0 +1,10 @@
+digest: c74c5ac9
+name: dataset
+profile: '{"num_rows": 6, "num_elements": 30}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "area", "required": true}, {"type":
+  "long", "name": "bedrooms", "required": true}, {"type": "long", "name": "bathrooms",
+  "required": true}, {"type": "long", "name": "stories", "required": true}, {"type":
+  "long", "name": "parking", "required": true}]}'
+source: '{"tags": {"mlflow.user": "vasista", "mlflow.source.name": "scripts/train.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
